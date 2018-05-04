@@ -1,0 +1,31 @@
+{
+    "appname": "Rosegarden",
+    "packages": [
+        [
+            ""
+        ]
+    ],
+    "lastUpdate": "2017-01-23",
+    "flavour": "Musica",
+    "description": "Editor de partitures",
+    "lliurexversion": "1:15.12",
+    "upstreamversion": "17.02",
+    "upstreamUrl": "http:\/\/rosegardenmusic.com\/",
+    "translateUrl": "http:\/\/rosegardenmusic.com\/",
+    "translatedVersions": [
+        {
+            "17.02": "2017-01-25"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/Musica\/rosegarden",
+    "transType": "ts",
+    "translationMethod": "applicationEmbed",
+    "installPath": "",
+    "fileList": [
+        "ca_ES@valencia.ts"
+    ],
+    "recipe": "",
+    "notes": "Es tracta d'una aplicaci\u00f3 Qt4, la traducci\u00f3 de la qual es compila junt amb el paquet font.",
+    "metapackage": "rosegarden",
+    "watch_me": "false"
+}

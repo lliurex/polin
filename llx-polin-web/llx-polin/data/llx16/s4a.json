@@ -1,0 +1,31 @@
+{
+    "appname": "s4a",
+    "packages": [
+        {
+            "s4a": "1.6+lliurex3"
+        }
+    ],
+    "lastUpdate": "2017-01-30",
+    "flavour": "Common",
+    "description": "Scratch per a Arduino",
+    "lliurexversion": "1.6+lliurex3",
+    "upstreamversion": "1.6",
+    "upstreamUrl": "http:\/\/s4a.cat\/",
+    "translateUrl": "Transifex",
+    "translatedVersions": [
+        {
+            "1.6+lliurex3": "2017-01-30"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/scratch",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/lib\/s4a\/locale",
+    "fileList": [
+        "ca_ES.po(no accepta @)"
+    ],
+    "recipe": "Les traduccions es troben en format po, tal qual en \/usr\/lib\/s4a\/locale, per\u00f2 no inclouen el valenci\u00e0.\nS'inclou dins el language-pack.",
+    "notes": "A partir de febrer de 2017, la traducci\u00f3 ha passat a Transifex, pel que podem demanar per a pr\u00f2ximes versions que habiliten el valenci\u00e0. ",
+    "metapackage": "s4a",
+    "watch_me": "true"
+}

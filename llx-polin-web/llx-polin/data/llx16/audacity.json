@@ -1,0 +1,34 @@
+{
+    "appname": "Audacity",
+    "packages": [
+        {
+            "audacity": "2.1.2-1"
+        },
+        {
+            " audacity-data": "2.1.2-1"
+        }
+    ],
+    "lastUpdate": "2017-02-14",
+    "flavour": "Common",
+    "description": "Editor d'\u00e0udio",
+    "lliurexversion": "2.1.2-1",
+    "upstreamversion": "2.1.2",
+    "upstreamUrl": "http:\/\/www.audacityteam.org\/",
+    "translateUrl": "https:\/\/lists.sourceforge.net\/lists\/listinfo\/audacity-translation",
+    "translatedVersions": [
+        {
+            "2.1.2-1": "14-02-2017"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/Multimedia\/Musica\/audacity",
+    "transType": "po",
+    "translationMethod": "applicationEmbed",
+    "installPath": "\/usr\/share\/locale\/ca_ES@valencia\/LC_MESSAGES\/audacity.mo",
+    "fileList": [
+        "audacity.po"
+    ],
+    "recipe": "En principi, les traduccions funcionene enviant un correu amb la traducci\u00f3 comprimida en zip a la llista de distribuci\u00f3 de cooreu dels traductors (audacity-translation@lists.sourceforge.net. ).\n\nDe moment s'inclou al language-pack",
+    "notes": "",
+    "metapackage": "audacity",
+    "watch_me": "true"
+}

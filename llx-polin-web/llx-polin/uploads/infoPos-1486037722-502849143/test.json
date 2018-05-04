@@ -1,0 +1,39 @@
+{
+    "appname": "Fitxer de testeig",
+    "packages": [
+        {
+            "paquet1": "vers1"
+        },
+        {
+            "paquet2": "vers2"
+        }
+    ],
+    "lastUpdate": "2017-01-24",
+    "flavour": "Common",
+    "description": "Entorn d'escriptori",
+    "lliurexversion": "1.12",
+    "upstreamversion": "1.16",
+    "upstreamUrl": "https:\/\/mate-desktop.org\/",
+    "translateUrl": "https:\/\/mate-desktop.org\/",
+    "translatedVersions": [
+        {
+            "16.04.07": "2017-01-25"
+        },
+        {
+            "vers1": "data1"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/mate-desktop",
+    "transType": "po",
+    "translationMethod": "applicationEmbed",
+    "installPath": "\/usr\/share\/locale",
+    "fileList": [
+        "file1.po",
+        "file2.po",
+        " file3.po"
+    ],
+    "recipe": "svn co http:\/\/test.com\/file1 \n potool pajaritos",
+    "notes": "Es tracta d'una prova per tal de testejar l'aplicaci\u00f3 web.\n A\u00e7o no \u00e9s un paquet real!! repito <br\/> No existe!",
+    "metapackage": "undefined",
+    "watch_me": "false"
+}

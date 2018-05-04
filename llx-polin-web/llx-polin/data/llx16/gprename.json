@@ -1,0 +1,31 @@
+{
+    "appname": "gprename",
+    "packages": [
+        {
+            "gprename": "20140325-1"
+        }
+    ],
+    "lastUpdate": "2017-08-23",
+    "flavour": "common",
+    "description": "Renomena fitxers i carpetes en lots",
+    "lliurexversion": "20140325-1",
+    "upstreamversion": "20140325-1",
+    "upstreamUrl": "https:\/\/sourceforge.net\/p\/gprename\/code",
+    "translateUrl": "-",
+    "translatedVersions": [
+        {
+            "20140325-1": "2017-06-02"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/gprename",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/share\/locale",
+    "fileList": [
+        "gprename.mo"
+    ],
+    "recipe": "",
+    "notes": "Cal enviar-los les traduccions i que les accepten. Mentre no s'envien, les incloem al language-pack.",
+    "metapackage": "gprename",
+    "watch_me": "false"
+}

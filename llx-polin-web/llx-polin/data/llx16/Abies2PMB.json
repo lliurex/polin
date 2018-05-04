@@ -1,0 +1,31 @@
+{
+    "appname": "Abies2PMB",
+    "packages": [
+        {
+            "lliurex-abies2pmb": ""
+        }
+    ],
+    "lastUpdate": "2017-22-16",
+    "flavour": "Biblioteca",
+    "description": "Conversor del format Abies mdb a PMB",
+    "lliurexversion": "1.1.7-lliurex2",
+    "upstreamversion": "1.1.7-lliurex2",
+    "upstreamUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translateUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translatedVersions": [
+        {
+            "1.1.7-lliurex2": ""
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/Abies2PMB",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/share\/locale",
+    "fileList": [
+        "abies2pmb"
+    ],
+    "recipe": "-",
+    "notes": "Aplicaci\u00f3 pr\u00f2pia de LliureX",
+    "metapackage": "lliurex-abies2pmb",
+    "watch_me": "false"
+}

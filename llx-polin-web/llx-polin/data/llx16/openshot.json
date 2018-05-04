@@ -1,0 +1,40 @@
+{
+    "appname": "openshot",
+    "packages": [
+        {
+            "openshot": "1.4.3-1.2"
+        },
+        {
+            "openshot-doc": "1.4.3-1.2 "
+        },
+        {
+            "    openshot-qt ": "2.2.0"
+        }
+    ],
+    "lastUpdate": "2017-09-03",
+    "flavour": "Common",
+    "description": "Editor de v\u00eddeo",
+    "lliurexversion": "1.4.3-1.2",
+    "upstreamversion": "2.2.0",
+    "upstreamUrl": "http:\/\/www.openshot.org\/",
+    "translateUrl": "http:\/\/www.openshot.org\/",
+    "translatedVersions": [
+        {
+            "2.2.0": "2017-01-30"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/Multimedia\/Video\/openshot",
+    "transType": "po",
+    "translationMethod": "applicationEmbed",
+    "installPath": "\/usr\/share\/openshot\/openshot\/locale\/ca@valencia\/LC_MESSAGES\/; \/usr\/lib\/python3\/dist-packages\/openshot_qt\/locale\/ca@valencia\/LC_MESSAGES",
+    "fileList": [
+        "OpenShot.po(1-4-3.1.2)\nVersi\u00f32.2: OpenShot.qm",
+        "   \/OpenShot.ts",
+        "   OpenShot.mo",
+        "  OpenShot.po"
+    ],
+    "recipe": "Hem baixat el po de launchpad, traduit amb el virtaal i tornat a pujar, en lloc de fer la traducci\u00f3 online. Si apar\u00e9ixen noves cadenes i no s\u00f3n moltes, potser pague la pena fer-ho online.\nLa versi\u00f3 2.2 est\u00e0 feta amb QT i utilitza fitxers ts de traducci\u00f3, per\u00f2 sembla que els importe dels .po.\n\nPer passar de ts a qm:\nlconvert openshot.ts -o openshot.qm\nper passar de po a mo:\n    msgfmt -o lang.mo lang.po",
+    "notes": "La versi\u00f3 2.2 s'instal\u00b7la des del ppa:\nsudo add-apt-repository ppa:openshot.developers\/ppa\nsudo apt-get update\nsudo apt-get install openshot-qt",
+    "metapackage": "openshot",
+    "watch_me": "false"
+}

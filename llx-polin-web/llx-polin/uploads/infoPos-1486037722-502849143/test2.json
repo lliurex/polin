@@ -1,0 +1,36 @@
+{
+    "appname": "Fitxer de testeig 2- modificat",
+    "packages": [
+        {
+            "paquet1": "vers1"
+        },
+        {
+            "paquet2": "vers2"
+        }
+    ],
+    "lastUpdate": "2016-01-24",
+    "flavour": "Common",
+    "description": "Entorn d'escriptori",
+    "lliurexversion": "1.12",
+    "upstreamversion": "1.16",
+    "upstreamUrl": "https:\/\/mate-desktop.org\/",
+    "translateUrl": "https:\/\/mate-desktop.org\/",
+    "translatedVersions": [
+        [
+            ""
+        ]
+    ],
+    "svnPath": "",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        "file1.po",
+        "file2.po",
+        "       file3.po"
+    ],
+    "recipe": "svn co http:\/\/test.com\/file1 \n potool pajaritos",
+    "notes": "Fitxer sense alguns camps, a vore si funciona...",
+    "metapackage": "meta1",
+    "watch_me": "false"
+}

@@ -1,0 +1,31 @@
+{
+    "appname": "solfege",
+    "packages": [
+        {
+            "solfege": ""
+        }
+    ],
+    "lastUpdate": "2017-09-20",
+    "flavour": "musica",
+    "description": "Programari d'entrenament de l'o\u00efda",
+    "lliurexversion": "3.22.2-1",
+    "upstreamversion": "3.22.2-1",
+    "upstreamUrl": "https:\/\/www.gnu.org\/software\/solfege\/",
+    "translateUrl": "http:\/\/translationproject.org\/domain\/solfege.html",
+    "translatedVersions": [
+        {
+            "3.22.2-1": ""
+        }
+    ],
+    "svnPath": "",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "locales",
+    "fileList": [
+        "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/Multimedia\/Musica\/solfege\n"
+    ],
+    "recipe": "Deixem al po en el languaege-pack fins que puguem pujr.lo  ",
+    "notes": "",
+    "metapackage": "solfege",
+    "watch_me": "true"
+}

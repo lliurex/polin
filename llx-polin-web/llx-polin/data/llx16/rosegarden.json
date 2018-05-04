@@ -1,0 +1,31 @@
+{
+    "appname": "rosegarden",
+    "packages": [
+        {
+            "rosegarden": ""
+        }
+    ],
+    "lastUpdate": "2017-01-24",
+    "flavour": "M\u00fasica",
+    "description": "Seq\u00fcenciador professional d'\u00c0udio i MIDI i editor de partitures",
+    "lliurexversion": "1:15.12.1-1",
+    "upstreamversion": "17.04",
+    "upstreamUrl": "http:\/\/www.rosegardenmusic.com\/",
+    "translateUrl": "-",
+    "translatedVersions": [
+        {
+            "1:15.12.1-1": "2017-01-30"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/Musica\/rosegarden",
+    "transType": "ts",
+    "translationMethod": "applicationEmbed",
+    "installPath": "",
+    "fileList": [
+        ""
+    ],
+    "recipe": "Cal revisar en http:\/\/www.rosegardenmusic.com\/wiki\/translator:add_or_update_translation com pujar les traduccions.. crec que s'ha de recompilar...",
+    "notes": "",
+    "metapackage": "rosegarden",
+    "watch_me": "false"
+}

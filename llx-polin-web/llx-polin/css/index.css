@@ -1,0 +1,118 @@
+
+#packageTableContainer{
+    margin-right: 50px;
+    margin-left: 50px;
+    
+}
+
+.editRowBt{
+    /*display: table-cell;* /
+    vertical-align: middle;
+    margin: 5px;*/
+    margin-top: 10px;
+    
+}
+
+.poLink{
+    color: rgb(119,41,83);
+    font-weight: 500;
+}
+
+.poLink:hover{
+    cursor: pointer;
+}
+
+table.dataTable.display tbody > tr.odd.selected > .sorting_1.updateable.{
+     background: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    transparent 5px,
+    #cec 6px,
+    #cec 8px
+  ) !important;
+}
+
+.updateable{
+    /*color: rgb(211,70,21);*/
+    background: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    transparent 5px,
+    #cec 6px,
+    #cec 8px
+  )
+    
+}
+
+.updateableTrans{
+    /*color: rgb(211,70,21);*/
+    background: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    transparent 5px,
+    #ecc 6px,
+    #ecc 8px
+  )
+    
+}
+
+.polinHeader{
+    background-position: center left;
+    background-image: url(img/header.png);
+    background-repeat: no-repeat;
+}
+
+.fullDialog{
+    width: 100%;
+}
+
+#messages{
+    height: 32px;
+    padding: 0px;
+    margin: 10px;
+}
+
+.successmsg{
+    margin: 0px 100px 0px 100px;
+    background: rgba(56,180,74,0.7);
+    border: #38b44a 1px solid;
+    border-radius: 2px;
+    padding:5px;
+    color: #ffffff;
+    display: none;
+}
+
+
+/* Rounded buttons */
+
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+.btn-circle.btn-lg {
+  width: 50px !important;
+  height: 50px !important;
+  padding: 10px 8px !important;
+  font-size: 32px !important;
+  line-height: 1.33 !important;
+  border-radius: 25px !important;
+  margin: 5px;
+}
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+
+.sorting_1, .sorting_2, .sorting_3{
+    background-color: rgba(180,180,180,0.1) !important;
+}

@@ -1,0 +1,34 @@
+{
+    "appname": "pyromaths",
+    "packages": [
+        {
+            "zero-lliurex-pyromaths": "0.134-lliuerx1"
+        },
+        {
+            " pyromaths ": "15.10-2"
+        }
+    ],
+    "lastUpdate": "2017-09-19",
+    "flavour": "Common",
+    "description": "Generador d'exercicis de matem\u00e0tiques",
+    "lliurexversion": "15.10-2",
+    "upstreamversion": "15.10-2",
+    "upstreamUrl": "http:\/\/www.pyromaths.org\/",
+    "translateUrl": "http:\/\/www.pyromaths.org\/",
+    "translatedVersions": [
+        {
+            "15.10-2": "2017-01-30"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/pyromaths",
+    "transType": "po",
+    "translationMethod": "applicationEmbed",
+    "installPath": "\/usr\/share\/locale\/ca_ES@valencia\/LC_MESSAGES",
+    "fileList": [
+        "pyromaths.po"
+    ],
+    "recipe": "De moment hem afegit les traduccions al github del pyromaths (del que pr\u00e8viament hem fet un fork). Estem a l'espera que s'incloga en upstream.",
+    "notes": "",
+    "metapackage": "zero-lliurex-pyromaths",
+    "watch_me": "false"
+}

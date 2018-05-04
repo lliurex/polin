@@ -1,0 +1,31 @@
+{
+    "appname": "zero-server-wizard",
+    "packages": [
+        {
+            "zero-server-wizard": "0.9.61"
+        }
+    ],
+    "lastUpdate": "2017-09-25",
+    "flavour": "Server",
+    "description": "Assistent d'inicialitzaci\u00f3 del servidor",
+    "lliurexversion": "0.9.61",
+    "upstreamversion": "0.9.61",
+    "upstreamUrl": "LliureX Repo",
+    "translateUrl": "LliureX Repo",
+    "translatedVersions": [
+        {
+            "0.9.61": "2017-09-25"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/zero-server-wizard",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "-",
+    "fileList": [
+        "ca@valencia.po"
+    ],
+    "recipe": "-",
+    "notes": "Aplicaci\u00f3 pr\u00f2pia de LliureX",
+    "metapackage": "zero-server-wizard",
+    "watch_me": "false"
+}

@@ -1,0 +1,43 @@
+{
+    "appname": "LliureX Mirror",
+    "packages": [
+        {
+            "lliurex-mirror": ""
+        },
+        {
+            "lliurex-mirror-cli": ""
+        },
+        {
+            " lliurex-mirror-gui": ""
+        },
+        {
+            " n4d-lliurex-mirror": ""
+        },
+        {
+            " admin-center-lliurex-mirror": ""
+        }
+    ],
+    "lastUpdate": "2017-08-24",
+    "flavour": "Server",
+    "description": "Mant\u00e9 un dip\u00f2sit de programari de LliureX",
+    "lliurexversion": "28.8.3",
+    "upstreamversion": "28.8.3",
+    "upstreamUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translateUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translatedVersions": [
+        {
+            "28.8.3": ""
+        }
+    ],
+    "svnPath": " https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/lliurex-mirror",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "-",
+    "fileList": [
+        "ca@valencia.po"
+    ],
+    "recipe": "-",
+    "notes": "Aplicaci\u00f3 pr\u00f2pia de LliureX",
+    "metapackage": "lliurex-mirror",
+    "watch_me": "false"
+}

@@ -1,0 +1,31 @@
+{
+    "appname": "pitivi",
+    "packages": [
+        {
+            "pitivi": ""
+        }
+    ],
+    "lastUpdate": "2017-07-19",
+    "flavour": "Musica",
+    "description": "Editor de v\u00eddeo",
+    "lliurexversion": "0.95-1",
+    "upstreamversion": "0.99",
+    "upstreamUrl": "http:\/\/www.pitivi.org",
+    "translateUrl": "https:\/\/github.com\/GNOME\/pitivi",
+    "translatedVersions": [
+        {
+            "0.95-1": "2017-01-31"
+        }
+    ],
+    "svnPath": "\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/Multimedia\/Musica\/pitivi",
+    "transType": "po",
+    "translationMethod": "applicationEmbed",
+    "installPath": "\/usr\/share\/locale\/ca@valencia\/LC_MESSAGES\/",
+    "fileList": [
+        "pitivi.mo-pitivi.mo"
+    ],
+    "recipe": "Baixem el fixer ca@valencia.softval.po des de https:\/\/github.com\/GNOME\/pitivi i el renomenem.\n\nAmb la versi\u00f3 anterior del pitivi.po (en este cas de la 13):\n\n1. Creem el .pot:\n\nmsgfilter -i ca@valencia.softval.po -o ca@valencia.pot true\n\n2.  Fem un merge dels dos fitxers (ca.po amb les traduccions fetes d'origen, i pitivi.po amb les nostres velles) amb la plantilla (pot):\n\nmsgmerge -C pitivi.po ca@valencia.softval.po ca@valencia.pot > ca_ES@valencia.po\n\n(-C pitivi.po o --compendium=pitivi.po)\n\nAgafem el qcv.po com a mem\u00f2ria de traducci\u00f3 (compendi), i el ca.po com a ultimes coses traduides, i completem amb aix\u00f3 el ca.pot.\n",
+    "notes": "",
+    "metapackage": "pitivi",
+    "watch_me": "false"
+}

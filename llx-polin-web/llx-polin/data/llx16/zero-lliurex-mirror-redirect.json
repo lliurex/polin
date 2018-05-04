@@ -1,0 +1,31 @@
+{
+    "appname": "zero-lliurex-mirror-redirect",
+    "packages": [
+        {
+            "zero-lliurex-mirror-redirect": ""
+        }
+    ],
+    "lastUpdate": "20\/09\/2017",
+    "flavour": "server",
+    "description": "Redirigeix el mirror al servidor mestre",
+    "lliurexversion": "0.2.lliurex1",
+    "upstreamversion": "0.2.lliurex1",
+    "upstreamUrl": "svn.lliurex.net",
+    "translateUrl": "svn.lliurex.net",
+    "translatedVersions": [
+        {
+            "0.2.lliurex1": ""
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/zero-lliurex-mirror-redirect",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "locales",
+    "fileList": [
+        "ca_ES@valencia.po"
+    ],
+    "recipe": "Aplicaci\u00f3 pr\u00f2pia de LliureX",
+    "notes": "",
+    "metapackage": "zero-lliurex-mirror-redirect",
+    "watch_me": "false"
+}

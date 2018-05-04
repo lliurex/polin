@@ -1,0 +1,33 @@
+{
+    "appname": "lliurex-java-panel",
+    "packages": [
+        {
+            "lliurex-java-panel": ""
+        }
+    ],
+    "lastUpdate": "2016-06-30",
+    "flavour": "Common",
+    "description": "Administraci\u00f3 del panell selector de java",
+    "lliurexversion": "0.7",
+    "upstreamversion": "0.7",
+    "upstreamUrl": "lliurex.net",
+    "translateUrl": "lliurex.net",
+    "translatedVersions": [
+        {
+            "0.4": "2016-06-30"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/lliurex-java-panel",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/share\/locale\/ca\/LC_MESSAGES\/lliurex-java-panel.mo",
+    "fileList": [
+        "ca.po",
+        "es.po",
+        "  lliurex-java-panel.mo"
+    ],
+    "recipe": "\/usr\/share\/locale\/ca\/LC_MESSAGES\/lliurex-java-panel.mo",
+    "notes": "",
+    "metapackage": "lliurex-java-panel",
+    "watch_me": "false"
+}

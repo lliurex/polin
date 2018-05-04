@@ -1,0 +1,43 @@
+{
+    "appname": "Libreoffice",
+    "packages": [
+        {
+            "libreoffice-help-ca": ""
+        },
+        {
+            "libreoffice-l10n-ca": ""
+        },
+        {
+            " libreoffice6.0-ca-valencia": ""
+        },
+        {
+            " libobasis6.0-ca-valencia": ""
+        }
+    ],
+    "lastUpdate": "08\/02\/2018",
+    "flavour": "Common",
+    "description": "Suite ofim\u00e0tica",
+    "lliurexversion": "5.4.4",
+    "upstreamversion": "6.0.0.3",
+    "upstreamUrl": "https:\/\/www.libreoffice.org\/",
+    "translateUrl": "https:\/\/translations.documentfoundation.org\/ca-valencia\/libo_ui\/",
+    "translatedVersions": [
+        {
+            "5.4.4": ""
+        },
+        {
+            "6.0.0.3": ""
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/libreoffice",
+    "transType": "po",
+    "translationMethod": "langPack",
+    "installPath": "\/usr\/lib\/libreoffice\/program\/resource\/, \/opt\/libreoffice6.0\/program\/resource\/ca@valencia\/",
+    "fileList": [
+        "-"
+    ],
+    "recipe": "Traducci\u00f3 directa, en principi sobre la plataforma web Pootle, per\u00f2 podem descarregar els pos i traduir-los.\nPassos:\n1. Baixar els pos del valenci\u00e0 i del catal\u00e0.\n2. Passar l'script valencianitzador.\n3. Incorporar les traduccions ja existents.\n4. Traduir i revisar cadenes.\n5. Tornar a pujar al pootle.",
+    "notes": "Cal anar amb compte amb les pujades, ja que els pos de la plataforma, indiquen a dins la ruta on s'instal\u00b7la i de vegades, es matxaquen els fitxers del catal\u00e0. Abans de pujar-lo, cal parlar amb els responsables de softcatal\u00e0 per avisar-los.",
+    "metapackage": "libreoffice",
+    "watch_me": "false"
+}

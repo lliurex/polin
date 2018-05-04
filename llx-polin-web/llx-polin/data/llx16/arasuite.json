@@ -1,0 +1,31 @@
+{
+    "appname": "AraSuite",
+    "packages": [
+        {
+            "zero-lliurex-arasuite": ""
+        }
+    ],
+    "lastUpdate": "2017-02-14",
+    "flavour": "Infantil\/Educaci\u00f3 Especial",
+    "description": "Aplicacions Tico, Araword i gesti\u00f3 de pictogrames",
+    "lliurexversion": "2.2.3",
+    "upstreamversion": "2.2.3",
+    "upstreamUrl": "https:\/\/sourceforge.net\/projects\/arasuite\/",
+    "translateUrl": "https:\/\/sourceforge.net\/projects\/arasuite\/",
+    "translatedVersions": [
+        {
+            "2.2.3": ""
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/AraSuite",
+    "transType": "properties",
+    "translationMethod": "applicationEmbed",
+    "installPath": "\/opt\/Arasuite",
+    "fileList": [
+        "Araword\/ca@valencia.lang\nTICO\/ca@valencia.lang\npalabras_con_sin_traduccion_catalan_*.xls\n"
+    ],
+    "recipe": "El proc\u00e9s d'instal\u00b7laci\u00f3 des del zero center consisteix a baixar el .sh, instal\u00b7lar-lo i a posteriori copiar les traduccions on toca i els fitxers de configuraci\u00f3.\nS'ha contactat amb Arasaac per tal de poder incorporar el valenci\u00e0 en la pr\u00f2pia aplicaci\u00f3. Aix\u00ed quan isca una versi\u00f3n nova, no caldr\u00e0 fer la c\u00f2pia de fitxers.\nPer altra banda, s'est\u00e0 traduint el diccionari de pictogrames partint de la versi\u00f3 catalana. ",
+    "notes": "",
+    "metapackage": "zero-lliurex-arasuite",
+    "watch_me": "true"
+}

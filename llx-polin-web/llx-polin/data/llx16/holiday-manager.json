@@ -1,0 +1,31 @@
+{
+    "appname": "Holiday Manager",
+    "packages": [
+        {
+            "holiday-manager": ""
+        }
+    ],
+    "lastUpdate": "16\/04\/2018",
+    "flavour": "Totes",
+    "description": "Inhabilita les alarmes del lliureX Bell en \u00e8poca de vacances.",
+    "lliurexversion": "0.1",
+    "upstreamversion": "0.1",
+    "upstreamUrl": "http:\/\/svn.lliurex.net\/xenial\/holiday-manager",
+    "translateUrl": "http:\/\/svn.lliurex.net\/xenial\/holiday-manager",
+    "translatedVersions": [
+        {
+            "0.1": ""
+        }
+    ],
+    "svnPath": "http:\/\/svn.lliurex.net\/xenial\/holiday-manager",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/share\/locale\/",
+    "fileList": [
+        "holiday-manager.po"
+    ],
+    "recipe": "Aplicaci\u00f3 pr\u00f2pia de LliureX",
+    "notes": "",
+    "metapackage": "holiday-manager",
+    "watch_me": "false"
+}

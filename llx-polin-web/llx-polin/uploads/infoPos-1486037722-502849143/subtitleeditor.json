@@ -1,0 +1,34 @@
+{
+    "appname": "Subtitle Editor",
+    "packages": [
+        {
+            "subtitleeditor": "0.52.1-2"
+        }
+    ],
+    "lastUpdate": "2017-01-24",
+    "flavour": "Musica",
+    "description": "Creador de subt\u00edtols",
+    "lliurexversion": "0.52.1-2",
+    "upstreamversion": "0.53.0",
+    "upstreamUrl": "http:\/\/home.gna.org\/subtitleeditor\/",
+    "translateUrl": "http:\/\/home.gna.org\/subtitleeditor\/",
+    "translatedVersions": [
+        {
+            "0.52.1-2": "2017-01-23"
+        },
+        {
+            "0.53.0": "2017-01-23"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/Musica\/subtitleeditor",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        "subtitleeditor.po"
+    ],
+    "recipe": "",
+    "notes": "",
+    "metapackage": "subtitleeditor",
+    "watch_me": "true"
+}

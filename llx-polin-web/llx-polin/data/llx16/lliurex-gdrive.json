@@ -1,0 +1,43 @@
+{
+    "appname": "lliurex-gdrive",
+    "packages": [
+        {
+            "lliurex-gdrive-core": ""
+        },
+        {
+            "lliurex-gdrive-gui": ""
+        },
+        {
+            "   lliurex-gdrive-indicator": ""
+        },
+        {
+            "   python-lliurexgdrive": ""
+        }
+    ],
+    "lastUpdate": "2017-11-16",
+    "flavour": "Common",
+    "description": "Assistent de configuraci\u00f3 de comptes de Google Drive",
+    "lliurexversion": "0.3.14",
+    "upstreamversion": "0.3.14",
+    "upstreamUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translateUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translatedVersions": [
+        {
+            "0.3.7": "2017-03-31"
+        },
+        {
+            "0.3.14": "2017-11-16"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/lliurex-gdrive",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "-",
+    "fileList": [
+        "ca_ES@valencia.po"
+    ],
+    "recipe": "",
+    "notes": "Aplicaci\u00f3 pr\u00f2pia de LliureX.",
+    "metapackage": "-",
+    "watch_me": "false"
+}

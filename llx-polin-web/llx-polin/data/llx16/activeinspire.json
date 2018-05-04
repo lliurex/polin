@@ -1,0 +1,32 @@
+{
+    "appname": "activeInspire",
+    "packages": [
+        [
+            ""
+        ]
+    ],
+    "lastUpdate": "2016-09-01",
+    "flavour": "",
+    "description": "Aplicacio de les pissarres Promethean",
+    "lliurexversion": "",
+    "upstreamversion": "",
+    "upstreamUrl": "",
+    "translateUrl": "",
+    "translatedVersions": [
+        [
+            ""
+        ]
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/Inspire",
+    "transType": "ts",
+    "translationMethod": "applicationEmbed",
+    "installPath": "",
+    "fileList": [
+        "inspire.es_VL.ts",
+        " qt.es_VL.ts"
+    ],
+    "recipe": "Els fitxers de traduccio s'envien per correu. \nPodem convertir els .ts a .po amb l'eina ts2po del paquet translate-toolkit, per editar amb el poedit o el virtaal, i despres convertir de po a ts.",
+    "notes": "",
+    "metapackage": "",
+    "watch_me": "false"
+}

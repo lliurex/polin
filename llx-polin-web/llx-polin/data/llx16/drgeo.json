@@ -1,0 +1,34 @@
+{
+    "appname": "drGeo",
+    "packages": [
+        {
+            "drgeo": "1.10.0-10.2"
+        },
+        {
+            "drgeo-doc": "1.5-7"
+        }
+    ],
+    "lastUpdate": "2017-02-14",
+    "flavour": "Common",
+    "description": "Programari de geometr\u00eda interactiva",
+    "lliurexversion": "1.1.0-10.2",
+    "upstreamversion": "16.10a.",
+    "upstreamUrl": "http:\/\/www.drgeo.eu\/home",
+    "translateUrl": "http:\/\/www.drgeo.eu\/home",
+    "translatedVersions": [
+        {
+            "1.1.0-10.2~": "2016"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/drgeo",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/share\/locale\/...",
+    "fileList": [
+        "i18n_po_DrGeoII-ca@valencia.po"
+    ],
+    "recipe": "Sent:\nca@valencia.po -> El fitxer que ja ten\u00edem traduit\ni18n_po_DrGeoII-ca@valencia.pot -> El fitxer i18n_po_DrGeoII-ca@valencia.po baixat de launchpad convertit en pot\ni18n_po_DrGeoII-ca@valencia.po -> El resultat per enviar a launchpad\n\nmsgmerge -C ca@valencia.po ca@valencia.po i18n_po_DrGeoII-ca@valencia.pot  > i18n_po_DrGeoII-ca@valencia.po\n\nFitxer pharo\n==========\nBaixem el po i el convertim a pot amb:\nmsgfilter --keep-header -i i18n_po_pharo_pharo-ca@valencia.po -o i18n_po_pharo_pharo-ca@valencia.pot awk -e '{}'\n\nI el mesclem amb el del catal\u00e0:\nmsgmerge i18n_po_pharo_pharo-ca.po i18n_po_pharo_pharo-ca@valencia.pot > i18n_po_pharo_pharo-ca@valencia.po\n\nTradu\u00efm i pugem.\n",
+    "notes": "1. Pujada al launchpad d'upstream la versi\u00f3 1.1.0-10.2.\n\n2. Tant a LliureX com a Ubuntu (Xenial) estan en la versi\u00f3 1.10.0-10.2. Es veu que han canivat de manera de nomenar versions en upstream  i en ubuntu porten altra numeraci\u00f3 o van m\u00e9s retrassats.",
+    "metapackage": "drgeo",
+    "watch_me": "false"
+}

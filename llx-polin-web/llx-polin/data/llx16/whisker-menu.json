@@ -1,0 +1,31 @@
+{
+    "appname": "whisker-menu",
+    "packages": [
+        {
+            "xfce4-whiskermenu-plugin": ""
+        }
+    ],
+    "lastUpdate": "2017-08-24",
+    "flavour": "Common",
+    "description": "Men\u00fa Whisker per a LliureX",
+    "lliurexversion": "1.6.0-0ppa1~xenial1",
+    "upstreamversion": "2.1.3",
+    "upstreamUrl": "https:\/\/gottcode.org\/xfce4-whiskermenu-plugin\/",
+    "translateUrl": "https:\/\/www.transifex.com\/gottcode\/xfce4-whiskermenu-plugin\/l",
+    "translatedVersions": [
+        {
+            "1.7.3": "2017-01-30"
+        }
+    ],
+    "svnPath": " https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/whisker-menu",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/share\/locale\/",
+    "fileList": [
+        "xfce4-whiskermenu-plugin.mo"
+    ],
+    "recipe": "",
+    "notes": "A partir de la versi\u00f3 1.7.3 ja porta les traduccions del Transifex.\nPer a versions anteriors caldria incloure-ho al language-pack.",
+    "metapackage": "xfce4-whiskermenu-plugin",
+    "watch_me": "true"
+}

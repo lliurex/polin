@@ -1,0 +1,40 @@
+{
+    "appname": "Lliurex Freeradius",
+    "packages": [
+        {
+            "lliurex-freeradius": "0.3.2"
+        },
+        {
+            " n4d-freeradius ": "0.2.1"
+        }
+    ],
+    "lastUpdate": "2017-09-20",
+    "flavour": "Server",
+    "description": "Configurador del FreeRadius",
+    "lliurexversion": "0.3.2",
+    "upstreamversion": "0.3.2",
+    "upstreamUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translateUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translatedVersions": [
+        {
+            "0.2.54": "2017-04-16"
+        },
+        {
+            "0.3.1 ": "2017-09-05"
+        },
+        {
+            " 0.3.2": "2017-09-20"
+        }
+    ],
+    "svnPath": "",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "- ",
+    "fileList": [
+        "ca_ES@valencia.po"
+    ],
+    "recipe": "",
+    "notes": "Assistent propi de LliureX",
+    "metapackage": "lliurex-freeradius",
+    "watch_me": "false"
+}

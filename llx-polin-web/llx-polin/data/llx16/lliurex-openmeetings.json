@@ -1,0 +1,43 @@
+{
+    "appname": "lliurex-openmeetings",
+    "packages": [
+        {
+            "lliurex-openmeetings": "0.29-lliurex9"
+        },
+        {
+            "lliurex-openmeetings-data ": "0.29-lliurex9"
+        },
+        {
+            "  lliurex-openmeetings-remote": "0.29-lliurex9"
+        },
+        {
+            "  lliurex-openmeetings-common": "0.29-lliurex9"
+        },
+        {
+            "  lliurex-openmeetings-installer": "0.29-lliurex9"
+        }
+    ],
+    "lastUpdate": "2017-08-22",
+    "flavour": "Server",
+    "description": "LliureX OpenMeetings",
+    "lliurexversion": "0.29-lliurex9",
+    "upstreamversion": "0.29-lliurex9",
+    "upstreamUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translateUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translatedVersions": [
+        {
+            "0.29-lliurex9": "2017-05-04"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/lliurex-openmeetings",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "-",
+    "fileList": [
+        "-"
+    ],
+    "recipe": "-",
+    "notes": "Assistent propi de LliureX per a l'OpenMeetings",
+    "metapackage": "lliurem-openmeetings",
+    "watch_me": "false"
+}

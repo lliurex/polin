@@ -1,0 +1,37 @@
+{
+    "appname": "lliurex-store",
+    "packages": [
+        {
+            "lliurex-store": "0.3-lliurex3"
+        },
+        {
+            " lliurex-store-blacklist ": "0.1"
+        },
+        {
+            " python3-lliurex-store ": "0.3-lliurex3"
+        }
+    ],
+    "lastUpdate": "2017-08-24",
+    "flavour": "Common",
+    "description": "Tenda d'aplicacions de LliureX",
+    "lliurexversion": "0.3-lliurex3",
+    "upstreamversion": "0.3-lliurex3",
+    "upstreamUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translateUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translatedVersions": [
+        {
+            "0.3-lliurex3": ""
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/lliurex-store",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/share\/locale\/",
+    "fileList": [
+        "Compilats:lliurex-store.mo \nFonts:\n\n.\/cli\/ca@valencia.po\n.\/exemple_categories.po\n.\/catalogue\/catalogue_ca_ES.UTF-8@valencia.po\n.\/gui\/ca@valencia.po\n"
+    ],
+    "recipe": "",
+    "notes": "Aplicaci\u00f3 pr\u00f2pia de LliureX",
+    "metapackage": "lliurex-store",
+    "watch_me": "false"
+}

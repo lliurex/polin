@@ -1,0 +1,31 @@
+{
+    "appname": "Noteshrink UI",
+    "packages": [
+        {
+            "noteshrink-gui": ""
+        }
+    ],
+    "lastUpdate": "2017-11-16",
+    "flavour": "common",
+    "description": "Interf\u00edcie gr\u00e0fica per a noteshrink, per netejar pdfs.",
+    "lliurexversion": "0.1.4",
+    "upstreamversion": "0.1.4",
+    "upstreamUrl": "http:\/\/github.com\/lliurex\/noteshrink-gui",
+    "translateUrl": "http:\/\/github.com\/lliurex\/noteshrink-gui",
+    "translatedVersions": [
+        {
+            "0.1.4": "2017-11-06"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/noteshrink-gui",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "-",
+    "fileList": [
+        "ca_ES@valencia.po"
+    ],
+    "recipe": "-",
+    "notes": "-",
+    "metapackage": "noteshrink-gui",
+    "watch_me": "false"
+}

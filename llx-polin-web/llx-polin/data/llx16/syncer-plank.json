@@ -1,0 +1,34 @@
+{
+    "appname": "syncer-plank",
+    "packages": [
+        {
+            "syncer-plank": "0.3.7"
+        },
+        {
+            " syncer-plank-client ": "0.2.1"
+        }
+    ],
+    "lastUpdate": "2017-08-24",
+    "flavour": "Server",
+    "description": "Sincronitzador del Plank",
+    "lliurexversion": "0.3.7",
+    "upstreamversion": "0.3.7",
+    "upstreamUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translateUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translatedVersions": [
+        {
+            "0.3.7": "2017-04-03"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/syncer-plank",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "-",
+    "fileList": [
+        "-"
+    ],
+    "recipe": "-",
+    "notes": "Aplicaci\u00f3 pr\u00f2pia de LliureX.",
+    "metapackage": "-",
+    "watch_me": "false"
+}

@@ -1,0 +1,31 @@
+{
+    "appname": "epi",
+    "packages": [
+        {
+            "epi": ""
+        }
+    ],
+    "lastUpdate": "2017-11-16",
+    "flavour": "Common",
+    "description": "Easy Package Installer. Instal\u00b7la paquets de forma senzilla.",
+    "lliurexversion": "0.1.1",
+    "upstreamversion": "0.1.1",
+    "upstreamUrl": "https:\/\/svn.lliurex.net\/xenial\/epi",
+    "translateUrl": "https:\/\/svn.lliurex.net\/xenial\/epi",
+    "translatedVersions": [
+        {
+            "0.1.1": ""
+        }
+    ],
+    "svnPath": "",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/epi",
+    "fileList": [
+        "ca_ES@valencia.po"
+    ],
+    "recipe": "-",
+    "notes": "Aplicaci\u00f3 pr\u00f2pia de LliureX.",
+    "metapackage": "epi",
+    "watch_me": "false"
+}

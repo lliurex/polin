@@ -1,0 +1,31 @@
+{
+    "appname": "ubiquity-slideshow-ubuntu",
+    "packages": [
+        {
+            "ubiquity-slideshow-ubuntu": ""
+        }
+    ],
+    "lastUpdate": "2017-09-25",
+    "flavour": "Common",
+    "description": "Carrusel de la instal\u00b7laci\u00f3",
+    "lliurexversion": "114-lliurex5",
+    "upstreamversion": "114",
+    "upstreamUrl": "-",
+    "translateUrl": "-",
+    "translatedVersions": [
+        {
+            "114-lliurex5": "2017-09-25"
+        }
+    ],
+    "svnPath": " https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "-",
+    "fileList": [
+        "ca_ES@valencia.po"
+    ],
+    "recipe": "-",
+    "notes": "-",
+    "metapackage": "ubiquity-slideshow-ubuntu",
+    "watch_me": "false"
+}

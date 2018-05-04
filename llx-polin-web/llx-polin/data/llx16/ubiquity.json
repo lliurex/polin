@@ -1,0 +1,31 @@
+{
+    "appname": "Ubiquity",
+    "packages": [
+        {
+            "ubiquity": ""
+        }
+    ],
+    "lastUpdate": "2017-01-30",
+    "flavour": "Common",
+    "description": "Paquet d'instal\u00b7laci\u00f3 del sistema en el live-cd",
+    "lliurexversion": "2.21.63.4",
+    "upstreamversion": "2.21.63.4",
+    "upstreamUrl": "-",
+    "translateUrl": "-",
+    "translatedVersions": [
+        {
+            "2.21.63.4": "2017-01-30"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/ubiquity",
+    "transType": "po",
+    "translationMethod": "applicationEmbed",
+    "installPath": "-",
+    "fileList": [
+        "-"
+    ],
+    "recipe": "",
+    "notes": "Paquet disponible al live-dvd per a la instal\u00b7laci\u00f3.",
+    "metapackage": "ubiquity",
+    "watch_me": "false"
+}

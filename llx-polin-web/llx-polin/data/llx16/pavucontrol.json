@@ -1,0 +1,31 @@
+{
+    "appname": "pavucontrol",
+    "packages": [
+        {
+            "pavucontrol": ""
+        }
+    ],
+    "lastUpdate": "2017-08-24",
+    "flavour": "Common",
+    "description": "Gestor del volum del pulseAudio",
+    "lliurexversion": "3.0-3build1",
+    "upstreamversion": "3.0-3build1",
+    "upstreamUrl": "https:\/\/github.com\/pulseaudio\/pavucontrol",
+    "translateUrl": "https:\/\/github.com\/pulseaudio\/pavucontrol",
+    "translatedVersions": [
+        {
+            "3.0-3build1": "2017-06-02"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/pavucontrol",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/share\/locale\/",
+    "fileList": [
+        "pavucontrol.mo"
+    ],
+    "recipe": "S'ha fet un fork a github per remetre'ls la traducci\u00f3 i ha estat acceptada. Fins que portem la versi\u00f3 que es traga d'aquest github, ho deixem al language-pack.",
+    "notes": "",
+    "metapackage": "",
+    "watch_me": "true"
+}

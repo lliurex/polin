@@ -1,0 +1,94 @@
+{
+    "appname": "zero-lliurex-installers",
+    "packages": [
+        {
+            "zero-lliurex-analytics": "0.139"
+        },
+        {
+            " zero-lliurex-moodle ": "0.139"
+        },
+        {
+            " zero-lliurex-dvdcss": ""
+        },
+        {
+            " zero-lliurex-fonts": ""
+        },
+        {
+            " zero-lliurex-hotpotatoes": ""
+        },
+        {
+            " zero-lliurex-kiosko": ""
+        },
+        {
+            " zero-lliurex-libreoffice-reset": ""
+        },
+        {
+            " zero-lliurex-midicss": ""
+        },
+        {
+            "  zero-lliurex-msad": ""
+        },
+        {
+            " zero-msad-installer": ""
+        },
+        {
+            " zero-lliurex-notebook-bar": ""
+        },
+        {
+            " zero-lliurex-pyromaths": ""
+        },
+        {
+            " zero-lliurex-recursos": ""
+        },
+        {
+            " zero-lliurex-salt": ""
+        },
+        {
+            " zero-lliurex-technologyzero-lliurex-salt": ""
+        },
+        {
+            " zero-lliurex-wine64": ""
+        },
+        {
+            " zero-lliurex-telegram": ""
+        },
+        {
+            " zero-lliurex-locker": ""
+        },
+        {
+            " zero-lliurex-dropbox-installer": ""
+        },
+        {
+            " zero-lliurex-skype": ""
+        },
+        {
+            " zero-lliurex-spotify": ""
+        },
+        {
+            " zero-lliurex-promethean ": "0."
+        }
+    ],
+    "lastUpdate": "2017-09-25",
+    "flavour": "Common",
+    "description": "Entorn d'escriptori",
+    "lliurexversion": "0.143-lliurex3",
+    "upstreamversion": "0.143-lliurex3",
+    "upstreamUrl": "www.lliurex.net",
+    "translateUrl": "www.lliurex.net",
+    "translatedVersions": [
+        {
+            "0.139": "2017-01-30"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/zero-installers",
+    "transType": "po",
+    "translationMethod": "applicationEmbed",
+    "installPath": "-",
+    "fileList": [
+        "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/zero-lliurex-installers\n"
+    ],
+    "recipe": "-",
+    "notes": "-",
+    "metapackage": "zero-lliurex-installers",
+    "watch_me": "false"
+}

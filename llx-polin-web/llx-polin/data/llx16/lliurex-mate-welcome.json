@@ -1,0 +1,31 @@
+{
+    "appname": "lliurex-mate-welcome",
+    "packages": [
+        {
+            "lliurex-mate-welcome": ""
+        }
+    ],
+    "lastUpdate": "2017-08-24",
+    "flavour": "Common",
+    "description": "Pantalla de benvinguda al sistema",
+    "lliurexversion": "16.04.9.1.062+lliurex1",
+    "upstreamversion": "16.04.9.1.062+lliurex1",
+    "upstreamUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translateUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translatedVersions": [
+        {
+            "16.04.9.1.062+lliurex1": "2017-08-21"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/lliurex-mate-welcome",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/share\/lliurex-mate-welcome\/po\/",
+    "fileList": [
+        ".\/foros\/ca_ES.po\n.\/zero-center\/ca_ES.po\n.\/software\/ca_ES.po\n.\/lliurex-mate-welcome_ca_ES.po\n.\/servidor\/ca_ES.po\n.\/splash\/ca_ES.po\n.\/hellolive\/ca_ES.po\n.\/colaborar\/ca_ES.po\n.\/gettingstarted\/ca_ES.po\n.\/features\/ca_ES.po\n.\/ayudar\/ca_ES.po\n.\/introduction\/ca_ES.po\n.\/index\/ca_ES.po"
+    ],
+    "recipe": "-",
+    "notes": "Derivat de l'Ubuntu Mate Welcome, per\u00f2 desenvolupat per a LliureX.",
+    "metapackage": "lliurex-mate-welcome",
+    "watch_me": "false"
+}

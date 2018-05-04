@@ -1,0 +1,35 @@
+{
+    "appname": "synfigstudio",
+    "packages": [
+        {
+            "synfigstudio": ""
+        },
+        {
+            "synfig": ""
+        }
+    ],
+    "lastUpdate": "09\/02\/2018",
+    "flavour": "-",
+    "description": "Editor de gr\u00e0fics i animacions 2d",
+    "lliurexversion": "1.0.2",
+    "upstreamversion": "1.2.1",
+    "upstreamUrl": "https:\/\/www.synfig.org\/",
+    "translateUrl": "https:\/\/www.transifex.com\/morevnaproject\/synfig\/language\/ca@valencia\/",
+    "translatedVersions": [
+        {
+            "1.2.1": ""
+        }
+    ],
+    "svnPath": "-",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "-",
+    "fileList": [
+        "synfig-core.po",
+        "synfigstudio.po"
+    ],
+    "recipe": "Fins que incorporem la versi\u00f3 1.2.1, inclourem les traduccions al language-pack.",
+    "notes": "",
+    "metapackage": "synfigstudio",
+    "watch_me": "true"
+}

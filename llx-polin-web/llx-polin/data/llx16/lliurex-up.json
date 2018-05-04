@@ -1,0 +1,31 @@
+{
+    "appname": "lliurex-up",
+    "packages": [
+        {
+            "lliurex-up": "16.04.26"
+        }
+    ],
+    "lastUpdate": "2017-11-16",
+    "flavour": "Common",
+    "description": "Actualitzador de LliureX",
+    "lliurexversion": "16.04.26",
+    "upstreamversion": "16.04.26",
+    "upstreamUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translateUrl": "https:\/\/launchpad.net\/~llxdev\/+archive\/ubuntu\/xenial",
+    "translatedVersions": [
+        {
+            "16.04.26": ""
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/lliurex-up",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/share\/locale\/",
+    "fileList": [
+        "Fonts:ca_ES@valencia.po\nCompilats: \/usr\/share\/locale\/ca_ES@valencia\/LC_MESSAGES\/lliurex-up.mo"
+    ],
+    "recipe": "",
+    "notes": "Aplicaci\u00f3 pr\u00f2pia de LliureX",
+    "metapackage": "16.04.26",
+    "watch_me": "false"
+}

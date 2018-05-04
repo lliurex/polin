@@ -1,0 +1,31 @@
+{
+    "appname": "PMB",
+    "packages": [
+        {
+            "zero-lliurex-pmb": ""
+        }
+    ],
+    "lastUpdate": "2017-07-19",
+    "flavour": "Server Biblioteca",
+    "description": "Servidor de biblioteques",
+    "lliurexversion": "4.2.6",
+    "upstreamversion": "4.2.6",
+    "upstreamUrl": "http:\/\/forge.sigb.net\/redmine\/attachments\/download\/1407\/pmb4.2.6.zip",
+    "translateUrl": "http:\/\/forge.sigb.net\/redmine\/attachments\/download\/1407\/pmb4.2.6.zip",
+    "translatedVersions": [
+        {
+            "4.2.6": "2016-11-30"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1505\/pmb",
+    "transType": "other",
+    "translationMethod": "applicationEmbed",
+    "installPath": "\/var\/www",
+    "fileList": [
+        ""
+    ],
+    "recipe": "S\u00f3n diversos fitxers php, xml, etc. instal\u00b7labes en el document root de www.\nLes m\u00e9s importants estan en: pmb\/includes\/messages i en opac_css\/includes\/messages.",
+    "notes": "Tradu\u00eft per a LliureX 15, i aprofitables per a la 16 amb algunes cadenes addicionals.\nhttps:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1505\/pmb\nhttps:\/\/svn.lliurex.net\/lliurex-pl",
+    "metapackage": "zero-lliurex-pmb",
+    "watch_me": "false"
+}

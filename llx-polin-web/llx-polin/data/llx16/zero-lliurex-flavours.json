@@ -1,0 +1,31 @@
+{
+    "appname": "zero-lliurex-flavours",
+    "packages": [
+        {
+            "zero-lliurex-flavours": ""
+        }
+    ],
+    "lastUpdate": "2017-01-24",
+    "flavour": "Common",
+    "description": "Selector de sabors",
+    "lliurexversion": "0.9.19-lliurex3",
+    "upstreamversion": "0.9.19-lliurex3",
+    "upstreamUrl": "lliurex.net",
+    "translateUrl": "lliurex.net",
+    "translatedVersions": [
+        {
+            "16.04.07": "2017-01-25"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606z\/ero-lliurex-flavours",
+    "transType": "po",
+    "translationMethod": "applicationEmbed",
+    "installPath": "\/usr\/sahare\/locale",
+    "fileList": [
+        ""
+    ],
+    "recipe": "",
+    "notes": "",
+    "metapackage": "zero-lliurex-flavours",
+    "watch_me": "false"
+}

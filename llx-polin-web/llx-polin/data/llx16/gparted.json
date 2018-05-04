@@ -1,0 +1,31 @@
+{
+    "appname": "gparted",
+    "packages": [
+        {
+            "gparted": ""
+        }
+    ],
+    "lastUpdate": "2017-11-15",
+    "flavour": "Common",
+    "description": "Particionador del disc",
+    "lliurexversion": "0.25.0-1",
+    "upstreamversion": "0.30.0",
+    "upstreamUrl": "https:\/\/gparted.org\/",
+    "translateUrl": "https:\/\/github.com\/lliurex\/gparted.git",
+    "translatedVersions": [
+        {
+            "0.25.0-1": ""
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/gparted",
+    "transType": "po",
+    "translationMethod": "langPack",
+    "installPath": "\/usr\/share\/locale-langpack\/ca@valencia\/LC_MESSAGES\/",
+    "fileList": [
+        "gparted.mo"
+    ],
+    "recipe": "Inclosa en el languge-pack de gnome. Est\u00e0 tradu\u00efda per softvalenci\u00e0, per\u00f2 cal adaptar-la a la terminologia actual (al\u00e7a per guarda, etc).\nHi ha un git per al projecte, al que caldr\u00e0 afegir-hi les traduccions. De tota manera, fins que s'aplique, podriem incloure-ho al nostre language-pack.",
+    "notes": "",
+    "metapackage": "gparted",
+    "watch_me": "true"
+}

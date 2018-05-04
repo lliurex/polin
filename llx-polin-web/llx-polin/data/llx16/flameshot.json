@@ -1,0 +1,31 @@
+{
+    "appname": "flameshot",
+    "packages": [
+        {
+            "flameshot": ""
+        }
+    ],
+    "lastUpdate": "2017-09-25",
+    "flavour": "common",
+    "description": "Capturador de pantalla",
+    "lliurexversion": "0.4-1",
+    "upstreamversion": "0.4-1",
+    "upstreamUrl": "https:\/\/github.com\/lupoDharkael\/flameshot",
+    "translateUrl": "https:\/\/github.com\/lliurex\/flameshot",
+    "translatedVersions": [
+        {
+            "0.4.1": "2017-09-25"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/flameshot",
+    "transType": "ts",
+    "translationMethod": "tradInApp",
+    "installPath": "transiations",
+    "fileList": [
+        "Internationalization_ca.ts"
+    ],
+    "recipe": "- Modifiquem els fitxers al github del flameshot de lliurex, i fem un pull-request al desenvolupador original.\n- Les traduccions estan en format ts, pel que cal convertir-les a po i viceversa (ts2po i po2ts).",
+    "notes": "",
+    "metapackage": "flameshot",
+    "watch_me": "false"
+}

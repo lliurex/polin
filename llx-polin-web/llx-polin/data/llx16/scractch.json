@@ -1,0 +1,31 @@
+{
+    "appname": "Scratch",
+    "packages": [
+        {
+            "scratch": ""
+        }
+    ],
+    "lastUpdate": "2017-01-30",
+    "flavour": "Common",
+    "description": "Sistema de programaci\u00f3 i eina de desenvolupament de contingut",
+    "lliurexversion": "1.4.0.6~dfsg1-5",
+    "upstreamversion": "2.0",
+    "upstreamUrl": "https:\/\/scratch.mit.edu\/download",
+    "translateUrl": "https:\/\/www.transifex.com\/lycee\/scratch-translation\/",
+    "translatedVersions": [
+        {
+            "1.4.0.6~dfsg1-5": "2017-01-30"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/scratch",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/share\/scratch",
+    "fileList": [
+        "ca_ES@valencia.po\n\/usr\/share\/scratch\/locale\/ca_ES.po"
+    ],
+    "recipe": "Les traduccions es troben en format po, tal qual en \/usr\/share\/scratch\/locale, per\u00f2 no inclouen el valenci\u00e0.\nCal incloure'l dins el language-pack.",
+    "notes": "A partir de febrer de 2017, la traducci\u00f3 ha passat a Transifex, pel que podem demanar per a pr\u00f2ximes versions que habiliten el valenci\u00e0. ",
+    "metapackage": "scratch",
+    "watch_me": "true"
+}

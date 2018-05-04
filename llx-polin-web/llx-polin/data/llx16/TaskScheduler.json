@@ -1,0 +1,31 @@
+{
+    "appname": "TaskScheduler",
+    "packages": [
+        {
+            "taskscheduler": ""
+        }
+    ],
+    "lastUpdate": "2017-11-16",
+    "flavour": "Common",
+    "description": "Planificador de tasques",
+    "lliurexversion": "0.2",
+    "upstreamversion": "0.2",
+    "upstreamUrl": "www.lliurex.net",
+    "translateUrl": "svn.lliurex.net",
+    "translatedVersions": [
+        {
+            "0.2": ""
+        }
+    ],
+    "svnPath": "-",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "-",
+    "fileList": [
+        "ca_ES@valencia.po"
+    ],
+    "recipe": "Sistema de traduccions lliurex-po.",
+    "notes": "",
+    "metapackage": "taskscheduler",
+    "watch_me": "false"
+}

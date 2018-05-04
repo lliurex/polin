@@ -1,0 +1,31 @@
+{
+    "appname": "Freecad",
+    "packages": [
+        {
+            "-": ""
+        }
+    ],
+    "lastUpdate": "2017-09-04",
+    "flavour": "Common",
+    "description": "Eina CAD",
+    "lliurexversion": "0.15.4671+dfsg1-4",
+    "upstreamversion": "0.16.6712.glibc2.17",
+    "upstreamUrl": "https:\/\/www.freecadweb.org\/wiki\/Download",
+    "translateUrl": "https:\/\/crowdin.com\/project\/freecad\/val-ES",
+    "translatedVersions": [
+        {
+            "0.16.6712.glibc2.17": "2017-09-04"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/freecad",
+    "transType": "other",
+    "translationMethod": "applicationEmbed",
+    "installPath": "",
+    "fileList": [
+        "-"
+    ],
+    "recipe": "Desc\u00e0rrega com a xliff des de la p\u00e0gina de desc\u00e0rregues. Es pot traduir directament a crowdfin o descarregar-se el xliff (editable amb el Virtaal, per\u00f2 no amb el poedit).",
+    "notes": "",
+    "metapackage": "-",
+    "watch_me": "false"
+}

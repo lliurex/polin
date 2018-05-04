@@ -1,0 +1,149 @@
+{
+    "appname": "mate",
+    "packages": [
+        {
+            "compiz-mate": "0"
+        },
+        {
+            "marco": "0"
+        },
+        {
+            "mate-accessibility-profiles": "0"
+        },
+        {
+            "mate-applet-topmenu": "0"
+        },
+        {
+            "mate-applets": "0"
+        },
+        {
+            "mate-desktop-environment-core": "0"
+        },
+        {
+            "mate-dock-applet": "0"
+        },
+        {
+            "mate-gnome-main-menu-applet": "0"
+        },
+        {
+            "mate-icon-theme": "0"
+        },
+        {
+            "mate-icon-theme-faenza": "0"
+        },
+        {
+            "mate-indicator-applet": "0"
+        },
+        {
+            "mate-media": "0"
+        },
+        {
+            "mate-menu": "0"
+        },
+        {
+            "mate-menus": "0"
+        },
+        {
+            "mate-netbook": "0"
+        },
+        {
+            "mate-netspeed": "0"
+        },
+        {
+            "mate-notification-daemon": "0"
+        },
+        {
+            "mate-optimus": "0"
+        },
+        {
+            "mate-polkit": "0"
+        },
+        {
+            "mate-power-manager": "0"
+        },
+        {
+            "mate-sensors-applet": "0"
+        },
+        {
+            "mate-settings-daemon": "0"
+        },
+        {
+            "mate-system-monitor": "0"
+        },
+        {
+            "mate-terminal": "0"
+        },
+        {
+            "mate-themes": "0"
+        },
+        {
+            "mate-tweak": "0"
+        },
+        {
+            "mate-user-guide": "0"
+        },
+        {
+            "mate-utils": "0"
+        }
+    ],
+    "lastUpdate": "2017-01-24",
+    "flavour": "Common",
+    "description": "Entorn d'escriptori",
+    "lliurexversion": "1.12",
+    "upstreamversion": "1.16",
+    "upstreamUrl": "https:\/\/mate-desktop.org\/",
+    "translateUrl": "https:\/\/mate-desktop.org\/",
+    "translatedVersions": [
+        {
+            "16.04.07": "2017-01-25"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/mate-desktop",
+    "transType": "po",
+    "translationMethod": "applicationEmbed",
+    "installPath": "",
+    "fileList": [
+        "for_translation_MATE_atril_ca@valencia.po",
+        "for_translation_MATE_blueman_ca@valencia.po",
+        "for_translation_MATE_caja_ca@valencia.po",
+        "for_translation_MATE_caja-extensions_ca@valencia.po",
+        "for_translation_MATE_engrampa_ca@valencia.po",
+        "for_translation_MATE_eom_ca@valencia.po",
+        "for_translation_MATE_galculator_ca@valencia.po",
+        "for_translation_MATE_libmatekbd_ca@valencia.po",
+        "for_translation_MATE_libmatemixer_ca@valencia.po",
+        "for_translation_MATE_libmateweather_ca@valencia.po",
+        "for_translation_MATE_marco_ca@valencia.po",
+        "for_translation_MATE_mate-applets_ca@valencia.po",
+        "for_translation_MATE_mate-backgrounds_ca@valencia.po",
+        "for_translation_MATE_mate-control-center_ca@valencia.po",
+        "for_translation_MATE_mate-desktop_ca@valencia.po",
+        "for_translation_MATE_mate-dialogs_ca@valencia.po",
+        "for_translation_MATE_mate-indicator-applet_ca@valencia.po",
+        "for_translation_MATE_mate-media_ca@valencia.po",
+        "for_translation_MATE_mate-menu_ca@valencia.po",
+        "for_translation_MATE_mate-netbook_ca@valencia.po",
+        "for_translation_MATE_mate-netspeed_ca@valencia.po",
+        "for_translation_MATE_mate-notification-daemon_ca@valencia.po",
+        "for_translation_MATE_mate-panel_ca@valencia.po",
+        "for_translation_MATE_mate-polkit_ca@valencia.po",
+        "for_translation_MATE_mate-power-manager_ca@valencia.po",
+        "for_translation_MATE_mate-screensaver_ca@valencia.po",
+        "for_translation_MATE_mate-sensors-applet_ca@valencia.po",
+        "for_translation_MATE_mate-session-manager_ca@valencia.po",
+        "for_translation_MATE_mate-settings-daemon_ca@valencia.po",
+        "for_translation_MATE_mate-system-monitor_ca@valencia.po",
+        "for_translation_MATE_mate-terminal_ca@valencia.po",
+        "for_translation_MATE_mate-themes_ca@valencia.po",
+        "for_translation_MATE_mate-tweak_ca@valencia.po",
+        "for_translation_MATE_mate-user-guide_ca@valencia.po",
+        "for_translation_MATE_mate-user-share_ca@valencia.po",
+        "for_translation_MATE_mate-utils_ca@valencia.po",
+        "for_translation_MATE_pluma_ca@valencia.po",
+        "for_translation_MATE_python-caja_ca@valencia.po"
+    ],
+    "recipe": "",
+    "notes": "",
+    "metapackage": "",
+    "watch_me": "false"
+}

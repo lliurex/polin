@@ -1,0 +1,32 @@
+{
+    "appname": "lightdm-gtk-greeter",
+    "packages": [
+        {
+            "lightdm-gtk-greeter": ""
+        }
+    ],
+    "lastUpdate": "2017-02-14",
+    "flavour": "Common",
+    "description": "Display Manager (Gtk)",
+    "lliurexversion": "2.0.1-2+lliurex3",
+    "upstreamversion": "2.0.1-2",
+    "upstreamUrl": "-",
+    "translateUrl": "-",
+    "translatedVersions": [
+        {
+            "2.0.1-2+lliurex3": "01\/2017"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/mate-desktop",
+    "transType": "po",
+    "translationMethod": "applicationEmbed",
+    "installPath": "\/usr\/share\/locale\/ca@valencia\/LC_MESSAGES\/lightdm-gtk-greeter.mo",
+    "fileList": [
+        "ca@valencia.po",
+        "lightdm-gtk-greeter.mo"
+    ],
+    "recipe": "Traduit i empaquetat directament per LlirueX.",
+    "notes": "",
+    "metapackage": "lightdm-gtk-greeter",
+    "watch_me": "false"
+}

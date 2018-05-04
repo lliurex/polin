@@ -1,0 +1,31 @@
+{
+    "appname": "lliurex-session-manager",
+    "packages": [
+        {
+            "lliurex-session-manager": "0.4-1"
+        }
+    ],
+    "lastUpdate": "2016",
+    "flavour": "Common",
+    "description": "Gestor de la sessi\u00f3 de LliureX",
+    "lliurexversion": "0.4-1",
+    "upstreamversion": "0.4-1",
+    "upstreamUrl": "lliurex.net",
+    "translateUrl": "lliurex-net",
+    "translatedVersions": [
+        {
+            "0.4-1": "2016"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/lliurex-session-manager",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/share\/locale\/ca_ES.UTF-8@valencia\/LC_MESSAGES\/lliurex-session-manager.mo",
+    "fileList": [
+        "ca_ES@valencia.po"
+    ],
+    "recipe": "",
+    "notes": "",
+    "metapackage": "lliurex-session-manager",
+    "watch_me": "false"
+}

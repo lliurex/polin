@@ -1,0 +1,31 @@
+{
+    "appname": "zero-lliurex-openboard",
+    "packages": [
+        {
+            "zero-lliurex-openboard": ""
+        }
+    ],
+    "lastUpdate": "09\/02\/2018",
+    "flavour": "-",
+    "description": "Instal\u00b7lador del zero center de l'openboard",
+    "lliurexversion": "0.3",
+    "upstreamversion": "0.3",
+    "upstreamUrl": "www.lliurex.net",
+    "translateUrl": "",
+    "translatedVersions": [
+        {
+            "0.3": ""
+        }
+    ],
+    "svnPath": "",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "-",
+    "fileList": [
+        "-"
+    ],
+    "recipe": "Instal\u00b7lador del zero-center. Aplicaci\u00f3 pr\u00f2pia de LliureX i traduible al svn.",
+    "notes": "",
+    "metapackage": "zero-lliurex-openboard",
+    "watch_me": "false"
+}
