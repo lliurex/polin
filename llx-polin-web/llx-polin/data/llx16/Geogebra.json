@@ -1,0 +1,31 @@
+{
+    "appname": "Geogebra",
+    "packages": [
+        {
+            "geogebra5": ""
+        }
+    ],
+    "lastUpdate": "2018-5-15",
+    "flavour": "Tots",
+    "description": "Aplicaci\u00f3 matem\u00e0tica",
+    "lliurexversion": "5.0.238.0-47",
+    "upstreamversion": "6",
+    "upstreamUrl": "https:\/\/www.geogebra.org\/download",
+    "translateUrl": "https:\/\/dev.geogebra.org\/ggbtrans",
+    "translatedVersions": [
+        {
+            "geogebra5\ngeogebra6": "enproc\u00e9s"
+        }
+    ],
+    "svnPath": "--",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "\/usr\/lib\/jvm\/java-geogebra\/     \/usr\/share\/geogebra",
+    "fileList": [
+        ""
+    ],
+    "recipe": "Es fa desde la seua p\u00e0gina",
+    "notes": "",
+    "metapackage": "geogebra5",
+    "watch_me": "false"
+}
